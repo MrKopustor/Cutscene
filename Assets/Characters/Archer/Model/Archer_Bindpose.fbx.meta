@@ -491,7 +491,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Archer_char
-    second: {fileID: 2100000, guid: 0c6d4ddbf3569c04cb48afdae0d7307d, type: 2}
+    second: {fileID: 2100000, guid: 4827490bfe22d1f4b99bcb5d8e77a061, type: 2}
   materials:
     materialImportMode: 1
     materialName: 1
