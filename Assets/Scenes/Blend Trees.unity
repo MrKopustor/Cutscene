@@ -128,7 +128,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 8000675533869141369, guid: ffda480debb80a9428ba20fe13f1c2e6, type: 3}
   m_PrefabInstance: {fileID: 1443172815}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &298782411
+--- !u!114 &298782414
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -140,10 +140,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42f642e475f49ba46a32e5ec6dc4bbc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 0}
-  velocity: 0
   acceleration: 0.1
-  VelocityHash: 0
 --- !u!1001 &697872559
 PrefabInstance:
   m_ObjectHideFlags: 0
