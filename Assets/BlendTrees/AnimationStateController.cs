@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class AnimationStateController: MonoBehaviour
 {
-    private Animator animator;
-    private float velocity = 0.0f;
+    Animator animator;
+    float velocity = 0.0f;
     public float acceleration = 0.1f;
     public float deceleration = 0.5f;
-    private int VelocityHash;
+    int VelocityHash;
     
     // Start is called before the first frame update
     void Start()
